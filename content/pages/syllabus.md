@@ -36,11 +36,56 @@ This subject examines the experiences of ordinary Chinese people as they lived t
 Grade Determination
 -------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Response Papers | 15% |
-| Midterm | 20% |
-| Discussion | 30% |
-| Final Paper | 35% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Response Papers
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 **A Note on Plagiarism: Using someone else's work without acknowledgment is plagiarism. If you commit this crime, you will at the least get a failing grade on the paper, and at worst fail the course and be taken to the Committee on Discipline. Later, I will give you more detailed instructions how to cite sources and how to avoid unintentional plagiarism.**
