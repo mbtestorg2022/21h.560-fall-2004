@@ -5,6 +5,7 @@ description: This resource contains information about how to examine the experie
   and twentieth centuries.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-560-smashing-the-iron-rice-bowl-chinese-east-asia-fall-2004/5868a8ff6ae5b342992569c8334797c1_MIT21H_560f04_sylls09.pdf
 file_type: application/pdf
+parent_uid: 8e3b967d-3c3b-8f1d-7f72-02cc22dd09ea
 resourcetype: Document
 title: MIT21H_560f04_sylls09.pdf
 uid: 5868a8ff-6ae5-b342-9925-69c8334797c1

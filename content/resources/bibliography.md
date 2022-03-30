@@ -9,6 +9,7 @@ description: 'BIBLIOGRAPHY
   3. China?s History on Film'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-560-smashing-the-iron-rice-bowl-chinese-east-asia-fall-2004/7cc4936ed5afc72bbfa11b2f771b97f2_bibliography.pdf
 file_type: application/pdf
+parent_uid: c9f6e131-56ee-c2ef-a2fe-f22c12424130
 resourcetype: Document
 title: bibliography.pdf
 uid: 7cc4936e-d5af-c72b-bfa1-1b2f771b97f2
